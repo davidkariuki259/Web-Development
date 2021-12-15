@@ -1,0 +1,14 @@
+body{
+    background-color: darkslategray;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+
+}
+
+#text{
+    border-right: solid white 4px;  /*add cursor to end of text*/
+    height: 35px;
+}
