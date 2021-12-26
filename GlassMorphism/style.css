@@ -7,7 +7,7 @@
 body{
     width: 100vw;
     height: 100vh;
-    font-family: Montserrat;
+    /*font-family: Montserrat; */
     padding: 10em 10em;
     background: url(one-cube2.png);
     background-repeat: no-repeat;
